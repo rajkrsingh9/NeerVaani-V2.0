@@ -148,8 +148,9 @@ To run NeerVaani locally:
 
 ```bash
 # Step 1: Clone the repository
-git clone https://github.com/your-username/neervaani.git
-cd neervaani
+git clone https://github.com/rajkrsingh9/NeerVaani-V2.0.git
+cd NeerVaani-V2.0
+
 
 # Step 2: Install dependencies
 npm install --legacy-peer-deps
